@@ -1,0 +1,2 @@
+====== Train ======
+python train.py --name gmm_train_new --stage GMM --workers 4 --save_count 5000 --shuffle
